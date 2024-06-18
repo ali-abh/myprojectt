@@ -45,7 +45,6 @@ class Makeup(models.Model):
     class Meta:
         verbose_name = "لوازم آرایشی"
 
-
 class Skincare(models.Model): 
     shopname =models.ForeignKey(Shop,on_delete=models.CASCADE,default="shop")
     productname = models.CharField(max_length=20)
