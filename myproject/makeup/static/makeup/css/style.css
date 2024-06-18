@@ -1,0 +1,25 @@
+h1{
+    color: rgb(13, 2, 85);
+    text-align: center;
+}
+body{
+    background-color: lightgray;
+
+}
+h3{
+    color: rgb(245, 86, 112);
+    text-align: center;
+    text-decoration: underline;
+    text-decoration-color: black;
+}
+div{
+    background-color: whitesmoke;
+    color: rgb(62, 122, 122);
+    padding: 50px 25px 50px 25px;
+    width: 50px solid purple;
+    height: 15px;
+    margin: 100px;
+}
+p{
+    text-decoration: overline underline;
+}
